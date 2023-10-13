@@ -1,0 +1,11 @@
+C:\Projects\PowePlantChallenge\obj\Release\net6.0\PubTmp\Out\PowerPlantChallenge.exe
+C:\Projects\PowePlantChallenge\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Projects\PowePlantChallenge\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Projects\PowePlantChallenge\obj\Release\net6.0\PubTmp\Out\PowerPlantChallenge.dll
+C:\Projects\PowePlantChallenge\obj\Release\net6.0\PubTmp\Out\PowerPlantChallenge.deps.json
+C:\Projects\PowePlantChallenge\obj\Release\net6.0\PubTmp\Out\PowerPlantChallenge.runtimeconfig.json
+C:\Projects\PowePlantChallenge\obj\Release\net6.0\PubTmp\Out\PowerPlantChallenge.pdb
+C:\Projects\PowePlantChallenge\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Projects\PowePlantChallenge\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\PowePlantChallenge\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\PowePlantChallenge\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

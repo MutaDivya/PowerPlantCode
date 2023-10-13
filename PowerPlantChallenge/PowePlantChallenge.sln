@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PowerPlantChallenge", "PowerPlantChallenge.csproj", "{5DC66E9B-93B8-4FF8-8DEF-F3DED5E12C8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DC66E9B-93B8-4FF8-8DEF-F3DED5E12C8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DC66E9B-93B8-4FF8-8DEF-F3DED5E12C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DC66E9B-93B8-4FF8-8DEF-F3DED5E12C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DC66E9B-93B8-4FF8-8DEF-F3DED5E12C8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE5BD075-C004-4856-97AB-1C4E3FE33F23}
+	EndGlobalSection
+EndGlobal
